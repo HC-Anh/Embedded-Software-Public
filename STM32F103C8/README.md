@@ -1,8 +1,8 @@
 # STM32F103C8
 
-This project about of functions of `STM32F103C8` and more.
+This project about of functions of `STM32F103C8T6` and more.
 
-## Overview Introduction about `STM32F103C8`
+## Overview Introduction about `STM32F103C8T6`
 
 - `STM32F103C8T6` is a 32 bit microcontroller, belonging to the F1 family of the ST series `STM32` chip.
 
