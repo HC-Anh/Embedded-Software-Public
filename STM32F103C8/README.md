@@ -10,7 +10,7 @@ This project about of functions of STM32F103C8 and more.
 
 - Maximum speed 72Mhz.
 
-- Memory: 64 kbytes Flash memory, 20 kbytes SRAM,
+- Memory: 64 kbytes Flash memory, 20 kbytes SRAM.
 
 - Clock, reset and power management:
 
@@ -46,19 +46,19 @@ This project about of functions of STM32F103C8 and more.
 
   + 2 Watchdog Timer for protection and error checking.
 
-  + 1 Systick Timer 24 bit count down for Delay function,….
+  + 1 Systick Timer 24 bit count down for Delay function,…
 
 - Supports 9 communication channels:
 
   + 2 sets of I2C.
 
-  + 3 sets of USART
+  + 3 sets of USART.
 
-  + 2 SPI
+  + 2 SPI.
 
-  + 1 CAN
+  + 1 CAN.
 
-  + USB 2.0 full-speed interface
+  + USB 2.0 full-speed interface.
 
 - Check for CRC and 96-bit ID errors.
 
