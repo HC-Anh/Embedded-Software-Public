@@ -1,4 +1,4 @@
-# STM32F103C8
+# STM32F103C8T6
 
 This project about of functions of `STM32F103C8T6` and more.
 
